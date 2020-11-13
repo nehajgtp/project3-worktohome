@@ -192,3 +192,9 @@ Matthew Meeh
  - Rebuilt app.py to suit our needs
  - Merged feature_frontend with Ali's and my backend and fixed conflicts.
  - Merged Kevin's testing-backend with my linted backend into final-backend.
+ 
+ Ali Alkhateeb
+ - Created backend api functionality.
+ - Wrote functions for getting homes and calculating distance between them.
+ - Linted backend files.
+ - CircleCi Integration and troubleshooting. 
